@@ -18,7 +18,7 @@ Dodawanie produktu:
 
 Sprawdzenie ceny dodanego produktu:
 
-<img width="286" alt="Zrzut ekranu 2023-07-11 o 12 40 38" src="https://github.com/Kacperowsky14/Sklep_internetowy/assets/93926070/49175b91-23d1-410f-903f-3ffb7dc4aec4">
+<img width="286" alt="Zrzut ekranu 2023-07-11 o 12 40 46" src="https://github.com/Kacperowsky14/Sklep_internetowy/assets/93926070/83ad9bff-8740-4ab3-b1cb-4888eea3f22c">
 
 Dodany produkt znajduje się w bazie danych(ostatni wiersz):
 
